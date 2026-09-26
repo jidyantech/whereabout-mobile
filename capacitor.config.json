@@ -1,0 +1,6 @@
+{
+  "appId": "com.ianah.whereaboutpro",
+  "appName": "Whereabout Pro",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
